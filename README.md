@@ -1,3 +1,17 @@
+<!-- osa:header:start -->
+# OSA Cal
+
+Scheduling and booking pages. Open alternative to **Google Calendar (appointment schedules)**, part of the [Open Software Alliance](https://github.com/OpenSoftwareAlliance) suite.
+
+| | |
+|---|---|
+| Upstream | [Cal.diy](https://github.com/calcom/cal.diy), kept in sync with this repository |
+| License | MIT |
+
+Credit for the original work goes to the Cal.diy authors. Everything below this header is the upstream README.
+
+---
+<!-- osa:header:end -->
 > [!WARNING]  
 > Use at your own risk. Cal.diy is the open source community edition of Cal.com and it is intended for users who want to self-host their own Cal.diy instance. It is strictly recommended for personal, non-production use. Please review all installation and configuration steps carefully. Self-hosting requires advanced knowledge of server administration, database management, and securing sensitive data. Proceed only if you are comfortable with these responsibilities.
 
